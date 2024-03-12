@@ -1,7 +1,7 @@
 #### **Hello, there! Welcome to my profile** 👋
 
 
-##### **About me** 🌱
+#### **About me** 🌱
 I am a **certified ISTQB Foundation Level (FL) tester** eager to embark on my journey in the field of manual testing.
 
 With a strong foundation in software testing principles and methodologies, I am passionate about ensuring quality and reliability in software products.
@@ -11,7 +11,7 @@ With a strong foundation in software testing principles and methodologies, I am 
 I am seeking opportunities to apply my skills and knowledge in a professional environment, where I can contribute effectively to the testing process and continue to grow as a tester.
 
 
-##### **Quality Assurance Toolbox**
+#### **Quality Assurance Toolbox**
 Issue tracking & Bug reports 🦠📝:
   - Jira
   - TestLink
