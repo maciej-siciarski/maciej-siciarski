@@ -11,7 +11,7 @@ With a strong foundation in software testing principles and methodologies, I am 
 I am seeking opportunities to apply my skills and knowledge in a professional environment, where I can contribute effectively to the testing process and continue to grow as a tester.
 
 
-#### **Quality Assurance Toolbox**
+#### **Quality Assurance Toolbox** 🛠
 Issue tracking & Bug reports 🦠📝:
   - Jira
   - TestLink
