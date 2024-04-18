@@ -2,7 +2,7 @@
 
 
 #### **About me** 🌱
-I am a **certified ISTQB Foundation Level (FL) tester** eager to embark on my journey in the field of manual testing.
+I am a [**certified ISTQB Foundation Level (FL) tester**](https://github.com/maciej-siciarski/maciej-siciarski/blob/main/Attachements/CTFL3-2024-21792-SJSI_EN_Maciej_Siciarski.pdf) eager to embark on my journey in the field of manual testing.
 
 With a strong foundation in software testing principles and methodologies, I am passionate about ensuring quality and reliability in software products.
 
