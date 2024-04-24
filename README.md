@@ -14,6 +14,7 @@ I am seeking opportunities to apply my skills and knowledge in a professional en
     Quality Assurance Toolbox 🛠
       
     Issue tracking & Bug reports: Jira | TestLink | TestRail 
+    
 
     Continuously learning of QA tools and issues:
 
