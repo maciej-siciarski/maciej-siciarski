@@ -11,16 +11,15 @@ With a strong foundation in software testing principles and methodologies, I am 
 I am seeking opportunities to apply my skills and knowledge in a professional environment, where I can contribute effectively to the testing process and continue to grow as a tester.
 
 
-#### **Quality Assurance Toolbox** 🛠
-Issue tracking & Bug reports 🦠📝:
-  - Jira
-  - TestLink
-  - TestRail
+    Quality Assurance Toolbox 🛠
+      
+    Issue tracking & Bug reports: Jira | TestLink | TestRail 
 
-Testing tools 💻:
-- Postman
-- SoapUI
-- Jmeter
+    Continuously learning of QA tools and issues:
+
+    Selenium Webdriver [POM] 🤖            Postman 📫
+  
+    Jmeter ⚡                               SoapUI 🧼
 
 <!--
 **maciej-siciarski/maciej-siciarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
